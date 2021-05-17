@@ -1,0 +1,94 @@
+1332436687167819778 2020-11-28 05:30:36 +0800 <PoshCrow> @Xbox Plenty more for friends!  https://t.co/QS4OuZDQmg
+1330098984820551680 2020-11-21 18:41:24 +0800 <PoshCrow> Superb!!
+1330063251565142018 2020-11-21 16:19:25 +0800 <PoshCrow> One step at a time , its looking great!!
+1328654103472451589 2020-11-17 18:59:58 +0800 <PoshCrow> @justmoo813 You have to power through it! Its like starting smoking! eventually they become bearable and then....then you almost like them!
+1327932553643307008 2020-11-15 19:12:47 +0800 <PoshCrow> @skslucher Nice! What do you model the characters in?
+1327660671643889664 2020-11-15 01:12:25 +0800 <PoshCrow> Got the boat working almost how  i want and local performance is good, now i need to work on boring LOD and area dynamic loading!   #indiedev #gamedev #indiegame #screenshotsaturday #unreal #gameart #indiegames  https://t.co/AoeJ1VRR2w
+1326891863283032065 2020-11-12 22:17:27 +0800 <PoshCrow> @GreyAlien Has anyone started some sort of indie game gamepass site? Like steam but just for indie devs? If it had exclusives it could be popular?
+1325456276843884545 2020-11-08 23:12:56 +0800 <PoshCrow> Getting gauntlet vibes here ,looks great!!
+1325392666444636160 2020-11-08 19:00:10 +0800 <PoshCrow> @EricTrump @realDonaldTrump No i cant believe it either  https://t.co/7QtQNORRX6
+1325349932614737920 2020-11-08 16:10:22 +0800 <PoshCrow> @RetroTony84 Oh it already arrived they broke into your house silently in the night and hid the “you were not home” note under your welcome mat 😅
+1325347552410136577 2020-11-08 16:00:54 +0800 <PoshCrow> @jimblimey You kids today! With your hardware sprites! We had to plot each line manually! Uphill both ways! And we liked it!
+1324999251290689536 2020-11-07 16:56:53 +0800 <PoshCrow> Foliage test! #indiedev #gamedev #indiegame #screenshotsaturday #unreal #gameart #indiegames #indiedevhour  https://t.co/0hP9iYiGQY
+1324997919183958017 2020-11-07 16:51:35 +0800 <PoshCrow> Looking good! 👍
+1324646035076108288 2020-11-06 17:33:20 +0800 <PoshCrow> @RetroTony84 Just put it in the next room and drill a hole through the wall for the cables 😂
+1324456967746760706 2020-11-06 05:02:02 +0800 <PoshCrow> @OctopusGilded That learning to code and make the game is a process anyone can learn if they stick at it, but making a good complete game is an art form in itself and much harder to achieve!
+1324369069102010368 2020-11-05 23:12:46 +0800 <PoshCrow> @AfRetro ...could you make it a video and upload it to youtube!? I think you can set videos to private on there?
+1322227177975353346 2020-10-31 01:21:39 +0800 <PoshCrow> Looks amazing!!
+1322227026837819393 2020-10-31 01:21:03 +0800 <PoshCrow> Looking a bit cozy up here...  #indiedev #gamedev #indiegame #screenshotsaturday #unreal #gameart #indiegames #indiedevhour  https://t.co/Qud3SqdB37
+1322224133363650560 2020-10-31 01:09:33 +0800 <PoshCrow> A rather fast boat tour :)  #indiedev #gamedev #indiegame #screenshotsaturday #unreal #gameart #indiegames #indiedevhour  https://t.co/4gszL0x3in
+1322130574572736517 2020-10-30 18:57:47 +0800 <PoshCrow> While i smash my head into the monitor trying to code up an a star algorithm take a look at what happens when you plug AAA motion capture data into a voxel character 😂 #indiedev #gamedev #indiegame #screenshotsaturday #unreal #gameart #indiegames #indiedevhour  https://t.co/xbLEmad9wJ
+1321552583899684870 2020-10-29 04:41:03 +0800 <PoshCrow> @TobyJohnson26 Unfortunately no release date but this is my first attempt at anything in unreal and learning c++ so quite a learning curve!! Hopefully a year
+1320697121834704897 2020-10-26 20:01:45 +0800 <PoshCrow> @TobyJohnson26 Thankyou! At the moment im going for something like a more relaxed version of sid meiers colonization , building up towns and exploring new islands at some point there will be other tribes in there to discover and trade with etc , on pc for the moment
+1320696319858647040 2020-10-26 19:58:34 +0800 <PoshCrow> @TheePaulsPalace @Alex3dtactics Yeah but the water flows through the boat! 😂
+1320477876668518401 2020-10-26 05:30:33 +0800 <PoshCrow> Improved my island generation and yes the boat is underwater a bit! But! Im making progress! Made a bob a boat subroutine 😂 (fakes the boat bobbing up and down) #indiedev #gamedev #indiegame #screenshotsaturday #unreal #gameart #indiegames #indiedevhour  https://t.co/64AkTOLkIE
+1320471237173383171 2020-10-26 05:04:10 +0800 <PoshCrow> Goal based vector field flow based pathfinding... that is all
+1320077585057984513 2020-10-25 02:59:56 +0800 <PoshCrow> and a great one on A*  https://t.co/SLPrH5DggH
+1320077422172295168 2020-10-25 02:59:17 +0800 <PoshCrow> Coding Up Some A* routines this evening, interesting video on alternative method:  https://t.co/IcAJq1nBPt
+1319977725638180864 2020-10-24 20:23:08 +0800 <PoshCrow> @PorbleG I think performance wise running full screen would be better for the game...although im not sure, you could on launch have that as the first question in a windowed box!?
+1319530569072439296 2020-10-23 14:46:18 +0800 <PoshCrow> Someone mentioned elite and now elite 2 frontier intro music is stuck in my head and now its in yours! Your welcome!  https://t.co/oIk3Gf6a8u
+1318284052563197954 2020-10-20 04:13:05 +0800 <PoshCrow> Nothing to see here! All is normal! #indiedev #gamedev #indiegame #screenshotsaturday #unreal #gameart #indiegames #indiedevhour #indiedevworldorder #indiegamedev  https://t.co/DKDMSwrrdW
+1317569114190286848 2020-10-18 04:52:10 +0800 <PoshCrow> 100 characters on an island fixed some height issues and them sneaking off the island! #indiedev #gamedev #indiegame #screenshotsaturday #unreal #gameart #indiegames #indiedevhour #indiedevworldorder #indiegamedev  https://t.co/OUvGXQG51O
+1317544430388338691 2020-10-18 03:14:05 +0800 <PoshCrow> Im gonna say it....looking better than mario
+1317205174927097856 2020-10-17 04:46:00 +0800 <PoshCrow> Going swimming are we!? #indiedev #gamedev #indiegame #screenshotsaturday #unreal #gameart #indiegames #indiedevhour #indiedevworldorder #indiegamedev  https://t.co/MEmfntCupW
+1317205101195427840 2020-10-17 04:45:43 +0800 <PoshCrow> So i got my magicavoxel character rigged using mixamo and then imported to blender and and used a plugin to convert to unreal skeleton and now i can use unreal animations and im pretty damn pleased with it!! #indiedev #gamedev #indiegame #screenshotsaturday #indiegamedev  https://t.co/41IMLeUtV9
+1317113813985071107 2020-10-16 22:42:58 +0800 <PoshCrow> @watchdogsgame Can you hide a floppy disk in a bin!? “THERE TRASHING OUR RIGHTS MAN!”
+1316442471098916871 2020-10-15 02:15:18 +0800 <PoshCrow> Well this is going in my game asap!
+1316289881933582341 2020-10-14 16:08:57 +0800 <PoshCrow> If you ever need an answer to a linux question in a forum...dont ask for an answer outright just state “i dont think you can do &lt;problem you need solving&gt; in linux” and you will have hundreds of suggestions! 😇
+1315592257173676032 2020-10-12 17:56:51 +0800 <PoshCrow> Looks amazing!!
+1311920594410233856 2020-10-02 14:46:58 +0800 <PoshCrow> @OddNMacabre most people have that one weird story, my best one is in the middle of the day a 3 way plug adapter slid off the shelf hovered in the air for maybe half a second and dropped the ground, 3 of us saw it...and shrugged it off and never talked about it!
+1311919953222815745 2020-10-02 14:44:25 +0800 <PoshCrow> Your all missing the most important thing, Trump DEFINITELY wont be able to goto school on monday mum 😂#TrumpHasCovid
+1311199485360582656 2020-09-30 15:01:32 +0800 <PoshCrow> This looks fun!
+1311044252558909448 2020-09-30 04:44:42 +0800 <PoshCrow> Got different  sized islands working! Now back to the boring coding!!  https://t.co/6kFJsjB52S
+1310983334017880068 2020-09-30 00:42:38 +0800 <PoshCrow> Fancy a dip!?  https://t.co/luoytp7zaj
+1310322860477632519 2020-09-28 04:58:09 +0800 <PoshCrow> Without  https://t.co/MKBRTisqZa
+1310322537117765635 2020-09-28 04:56:52 +0800 <PoshCrow> Added point falloff based on distance from a point to lower surrounding values :) its getting there! (Exaggerating water levels to show it)  https://t.co/WMu8sRvDdc
+1310251881655160838 2020-09-28 00:16:06 +0800 <PoshCrow> Turns out i need to apply a square or circular heightmap to the simplex noise...  https://t.co/gd1dn5qq4S
+1310207114263003136 2020-09-27 21:18:13 +0800 <PoshCrow> @EdudateOfficial Teachers dating teachers...time to invest in wine stocks 😂
+1309959434349744128 2020-09-27 04:54:01 +0800 <PoshCrow> Added simplex noise and some clouds not happy with the noise function results yet but learnt how to include it so some progress! #indiedev #gamedev #indiegame #screenshotsaturday #unreal #gameart #indiegames #indiedevhour #indiedevworldorder #indiegamedev  https://t.co/MSZk8T932L
+1309569316799512576 2020-09-26 03:03:50 +0800 <PoshCrow> C++ spawn test... (need a funky landmass noisegen algo simplex? )  https://t.co/XiCDDNEHU5
+1309501209527676928 2020-09-25 22:33:12 +0800 <PoshCrow> Im upto something...  https://t.co/wOcxU0XuTF
+1309453156619825152 2020-09-25 19:22:15 +0800 <PoshCrow> @GamerChrris Ironic that they are selling there own downfall really the cheaper being no disc version its like watching blockbuster in slow motion
+1309193838615986180 2020-09-25 02:11:49 +0800 <PoshCrow> @EllipseEnt I used to have a pc so loud i drilled a hole through the wall and had the computer in the other room and passed the cables through the hole 😂 it worked well but was eerily quiet...so quiet i could hear the hum of the monitor :)
+1308859692442095618 2020-09-24 04:04:02 +0800 <PoshCrow> @SeasonDeeper And sometimes the rationof followers is arbitrary so even though you should be able to follow x you still need to unfollow y....it basically guesswork 😂
+1308858683993059328 2020-09-24 04:00:02 +0800 <PoshCrow> @SeasonDeeper Sign out and log back in can sort it sometimes it takes a day or 2 , or deactivate account and restore within 1 day, ive had the same problem folllowing too many people last time i had to manually unfollow 100+ people to sort it
+1308766856833126400 2020-09-23 21:55:09 +0800 <PoshCrow> I found the manual aswell!! Cant wait to try these out on the spectrum next :) #retro #ZXSpectrum #zxspectrumnext  https://t.co/wC5Gqwadqn
+1308762003582988288 2020-09-23 21:35:51 +0800 <PoshCrow> And just to really show off....  https://t.co/8uwHVMvLnR
+1308761356200374272 2020-09-23 21:33:17 +0800 <PoshCrow> An acorn archimedes a3000 of course! My amiga is on display you animals!!  https://t.co/hx1lvWWEkr
+1308761144799178753 2020-09-23 21:32:27 +0800 <PoshCrow> Ooooh whats inside this box...  https://t.co/75cezIk9Wb
+1308758979837861888 2020-09-23 21:23:51 +0800 <PoshCrow> Just found this bad boy in the attic...my first computer at the age of 6 :) “whats the point of that you can just draw on paper” &lt; one of my dads friends ....goddamn boomers 😂  https://t.co/dBKHsTm913
+1308473686895230976 2020-09-23 02:30:11 +0800 <PoshCrow> @iwilson80 Lol :)
+1308303888819384321 2020-09-22 15:15:28 +0800 <PoshCrow> @TheSplendidFox Whats that game on the bottom right??
+1307964112689934342 2020-09-21 16:45:19 +0800 <PoshCrow> @bluegoogames That ive just started it ... :) addicted to starting new games
+1307963676616515584 2020-09-21 16:43:35 +0800 <PoshCrow> Go on get yourself a ps5 AND A new xbox (whatever thats called this minute) I HEREBY GRANT THEE PERMISSION! .........and grab yourself a generator at the same time...but you didn’t hear that from me.... #xbox #ps5
+1307951498085662724 2020-09-21 15:55:12 +0800 <PoshCrow> @sazzledoom Brookside...unfinished business..good lord just imagine being on the vhs factory floor and seeing that roll by on the production line “I QUIT BOSS! IM OUT!”
+1307451791928422403 2020-09-20 06:49:33 +0800 <PoshCrow> @Bhaal_Spawn I mean... is there jumping in this game i cant remember!!
+1307447970544181254 2020-09-20 06:34:22 +0800 <PoshCrow> Jump kick...YOUR CHEATING!! ... jump kick jump kick... ITS IN THE GAME!! LEARN TO BLOCK!
+1307422337948676098 2020-09-20 04:52:30 +0800 <PoshCrow> @Bhaal_Spawn Hang on....no jumping!!?
+1307420147192418304 2020-09-20 04:43:48 +0800 <PoshCrow> @3wojis Oh! A new game! ....oh....its mario...ok i mean its good sure...but...youve got billions of dollars....could do something new??? Mayyyybe!!!????
+1307419125707399171 2020-09-20 04:39:44 +0800 <PoshCrow> Drinking and listening to the fallout 3 music... :)  https://t.co/rLkyXVgVwg
+1307416095754723330 2020-09-20 04:27:42 +0800 <PoshCrow> @bluegoogames Yep! Literally my dream is to do game dev without worrying about bills etc, you know....if all indiedevs got together we could probably make our own steam like service with everyone’s games on it for a subscription or something completely bypass the mainstream industry
+1307287838279557123 2020-09-19 19:58:03 +0800 <PoshCrow> What feature / game addicted you the most? And why? For me its the original settlers... i think the idea of starting again and where i would plan to put things  #indiedev #gamedev #indiegame  #gameart #indiegames #indiedevhour #indiegamedev
+1306957193737048070 2020-09-18 22:04:11 +0800 <PoshCrow> Well , im actually enjoying learning c++ just wrapping my head around classes...they are brilliant!! I just keep falling asleep watching the training videos! (Literally!!)
+1306929396822007808 2020-09-18 20:13:44 +0800 <PoshCrow> Im amazed at the price of the ps5 wasnt the ps4 like 700 quid when it came out or something crazy!?
+1306270327396339712 2020-09-17 00:34:50 +0800 <PoshCrow> @theretrobyte The first thought is LIES!!!!! Lol , yeah populous :)
+1304918908269481984 2020-09-13 07:04:46 +0800 <PoshCrow> LOVE THIS!!!!
+1304155933535338506 2020-09-11 04:32:59 +0800 <PoshCrow>  https://t.co/2QQdnLZHq3
+1304155759777906699 2020-09-11 04:32:17 +0800 <PoshCrow> @thalamusdigital Just think of all those poor children who wont get a covertape of the snow level bonus stage on a covertape and play it all christmas and then harrass you for a third installment on twitter 20+ years later relentlessly... 🤔
+1304155064383287301 2020-09-11 04:29:32 +0800 <PoshCrow> @thalamusdigital DAMN YOU!!!!!! you had me there!!
+1304026512769810435 2020-09-10 19:58:42 +0800 <PoshCrow> @AlexGoodwin63 @MrBubbl71022177 Amazing! Is that a grass shader?
+1304026222779936774 2020-09-10 19:57:33 +0800 <PoshCrow> @FenecGame @NetworkIndie Nice! What software do you use??
+1303983121667428353 2020-09-10 17:06:17 +0800 <PoshCrow> @bmthofficial @yungblud ...blink 182 are BACK!
+1303982518673256454 2020-09-10 17:03:53 +0800 <PoshCrow> @stevenspohn @GendoWasRight At least with tenet you can wear a full oxygen mask and immerse yourself in the film more 😂
+1303623014391656449 2020-09-09 17:15:21 +0800 <PoshCrow> @Vistaprint Yeah i trust a random guy on youtube over hundreds of thousands of medical professionals, Just a polite reminder... doctors and nurses are not wearing a pokemon go mask they bought off etsy into work for a reason
+1303622272264155136 2020-09-09 17:12:24 +0800 <PoshCrow> Just a polite reminder... doctors and nurses are not wearing a pokemon go mask they bought off etsy into work for a reason 😂
+1303264012348600320 2020-09-08 17:28:48 +0800 <PoshCrow> Well ive budgeted 1 year so fingers crossed!!
+1303263859407556608 2020-09-08 17:28:12 +0800 <PoshCrow> Dont forget last days to back this!!l! #indiegames I just backed ZX Spectrum Next - Issue 2 on @kickstarter  https://t.co/3zT98e3loM
+1303252748482338816 2020-09-08 16:44:03 +0800 <PoshCrow> @Vistaprint What annoys me about everyone selling cloth masks is the filtration level usually doesnt even block corona virus, at least a disposable medical grade mask is cheaply available and blocks the virus...yes a cloth mask is better than nothing , but so is anything!
+1302345616941555714 2020-09-06 04:39:26 +0800 <PoshCrow> BRB learning C++. , turned my second monitor into portrait mode so i’m sure i’m 90 percent of the way there 😂
+1302345164086747141 2020-09-06 04:37:38 +0800 <PoshCrow> Cheeers!!
+1302176249859768322 2020-09-05 17:26:25 +0800 <PoshCrow> Its a tale as old as time... clean the keyboard or throw it away and buy the exact same one...
+1302150670213091328 2020-09-05 15:44:47 +0800 <PoshCrow> @OskSta How about a collab with adamgryu to put the short hike character in your world!!?  https://t.co/fdKI0hRHp8
+1301416477879406592 2020-09-03 15:07:22 +0800 <PoshCrow> @propainkey @realretroism @RetroBoyJon @RetroGameRoom1 @Retr0Joe @CuppaTea4Meeeee @RetrogamerMr @Underwulde123 @RetroGameGuys @Segamastertim ....someone got a wife 😂
+1301076909573443586 2020-09-02 16:38:02 +0800 <PoshCrow> Hmmm ... 6666 following ... perfectly normal!  https://t.co/KacxPnY8lQ
+1301076583160180736 2020-09-02 16:36:44 +0800 <PoshCrow> Whats with all the fox games!? Do i need to put a fox in my game?

@@ -1,0 +1,265 @@
+1343945502887473152 2020-12-29 23:42:31 +0800 <alvarogutyerrez> @AhammerAlex wait... how did you take this photo? 🤣
+1343646116336836608 2020-12-29 03:52:52 +0800 <alvarogutyerrez> @valentiandrade @uchile @facsouchile @udp_cl Oye, pero que bello!! Eso salió de Ucursos?
+1343225258896195587 2020-12-28 00:00:32 +0800 <alvarogutyerrez> @ARodNV @nberpubs same here
+1340937969029550081 2020-12-21 16:31:39 +0800 <alvarogutyerrez> @JaapAbbring @kleintob 🔥!
+1340636989268357126 2020-12-20 20:35:40 +0800 <alvarogutyerrez> For the #Stata-trained #RStats users that miss Stata's threeway tables from `table , c()` (as I do), here's something for you 🎁🤯!   https://t.co/FPOtwMW1aw  #EconTwitter
+1340405784048447497 2020-12-20 05:16:57 +0800 <alvarogutyerrez> @hillarylmcbride @john_t_ormerod 👌🏼🔥
+1339530479138205697 2020-12-17 19:18:48 +0800 <alvarogutyerrez> @PHuenermund @LucSels Considering that I am following the same program as you, I feel utterly spoiled.
+1338597210519375875 2020-12-15 05:30:19 +0800 <alvarogutyerrez> @rtelmore @rstatstweet relatable
+1338236633628483584 2020-12-14 05:37:31 +0800 <alvarogutyerrez> @heyitsmehugo @UrFreundHannah @rstatstweet Indeed
+1338128362401837058 2020-12-13 22:27:17 +0800 <alvarogutyerrez> @Nelsonzegt @Stata write a .py file from a .do file, or a .do file from a .py file this is the dilemma haha  https://t.co/0A277VlIZT
+1338126694872469505 2020-12-13 22:20:39 +0800 <alvarogutyerrez> @Ebehi_Iyoha @ChrisANeilson @Stata I'm glad you find it useful😊. I saw the question on SO and I found weird the lack of a one-line solution within the `to_stata` approach. Fortunately, `sfi` made it possible :D
+1338116122781081603 2020-12-13 21:38:39 +0800 <alvarogutyerrez> I don't know who needs to hear this, but here is a way to create label values from #Python to @Stata, a missing feature in the awesome `to_stata()` from #pandas library.  https://t.co/kRk9oXnGUG #EconTwitter
+1338107058424602624 2020-12-13 21:02:38 +0800 <alvarogutyerrez> @henrikbengtsson Thank you a lot for this. The integration of `progressr` with `future.apply::future_lapply()` is amazing🔥! This progress bar has decreased my anxiety by around 1e1000 times 😂  https://t.co/Vz8KgflSZx
+1337704678361067521 2020-12-12 18:23:43 +0800 <alvarogutyerrez> @AlejandroPh_C @valentiandrade pero algo que para mí siempre es iluminador es simular data  y recuperar los parámetros verdaderos, si logro hacer eso, compruebo dos cosas. Primero que el programa funciona y que entiendo bien el modelo jajaja :D
+1337686204339400705 2020-12-12 17:10:18 +0800 <alvarogutyerrez> @AlejandroPh_C @valentiandrade Concuerdo con el Ale, sin tener el código hay solo un par de consejos genéricos que aplican a modelos que ocupen máx verosimilitud(cambiar los starting values, el algoritmo, los niveles de tolerancia, trackear los betas en cada iteración, sapear los eigen Val del hessian, etc)
+1337114193410093056 2020-12-11 03:17:20 +0800 <alvarogutyerrez> @TMSnowsill Great! At first, it seemed too obvious to me that the for-loop structure will run serially inside of each parallel call, but after seeing the speed boost of it, I was stunned and in doubt of it. Thx u!
+1337088544930754562 2020-12-11 01:35:25 +0800 <alvarogutyerrez> @DanieleGirardi_ Embedded gifs allowed?
+1335627240781062153 2020-12-07 00:48:43 +0800 <alvarogutyerrez> @alej4ndrovitch Qué mejor
+1334991576683208708 2020-12-05 06:42:49 +0800 <alvarogutyerrez> @KirbyKNielsen Ender***
+1334991344029282305 2020-12-05 06:41:54 +0800 <alvarogutyerrez> @KirbyKNielsen Indeed... Additionally, in another non related topic, I think my cat looks very similar to your Elder 😱😂  https://t.co/BXKQFmFJAD
+1334975168117153792 2020-12-05 05:37:37 +0800 <alvarogutyerrez> @AlejandroPh_C @sjgahn Hermano te amo
+1334909255892283392 2020-12-05 01:15:42 +0800 <alvarogutyerrez> @AlejandroPh_C @sjgahn 3 coffees I assume &lt;3
+1334838264776232961 2020-12-04 20:33:37 +0800 <alvarogutyerrez> @pachamaltese @S_bravo con todo 💪🏼!!
+1334809726937411585 2020-12-04 18:40:13 +0800 <alvarogutyerrez> @KirbyKNielsen I've watched this one. I didn't remember that it was so old, it was almost a decade ago😱! Now with corona/climate change denials everything seems even scarier...
+1334606731171786752 2020-12-04 05:13:35 +0800 <alvarogutyerrez> @KirbyKNielsen information bubble, maybe?
+1334406304878784512 2020-12-03 15:57:09 +0800 <alvarogutyerrez> @AlejandroPh_C Alejandro, esos insultos indecorosos jjssjsj
+1334250650977378305 2020-12-03 05:38:39 +0800 <alvarogutyerrez> @ivan_abarca Se acerca, pero y la parte del 🎨🖍️? Jeje
+1334246442794442759 2020-12-03 05:21:55 +0800 <alvarogutyerrez> Okey guys quick question, cómo dirían en inglés: "yiaaaaa te diste el medio color oe si". Particularly curious about the "yiaaaaa" part. Gracias.
+1334239611137253381 2020-12-03 04:54:46 +0800 <alvarogutyerrez> @AlejandroPh_C Alejandro, con eso es suficiente para un verdadero fan jaja
+1334129634015932417 2020-12-02 21:37:46 +0800 <alvarogutyerrez> achievement of the year  https://t.co/lvgfpPp49p
+1333885537338404865 2020-12-02 05:27:49 +0800 <alvarogutyerrez> @thefeatherbe Honestly, this album is one of the reasons why I've survived 2020 so far.
+1333814179229216768 2020-12-02 00:44:16 +0800 <alvarogutyerrez> @tomascortesp su paper de laboral
+1333429600001593345 2020-11-30 23:16:05 +0800 <alvarogutyerrez> @priyavshan These covers also stick😂  https://t.co/1qEraFCwBA
+1333403476446109698 2020-11-30 21:32:16 +0800 <alvarogutyerrez> @laure_wynants @crokochris Brilliant.
+1332970073661853697 2020-11-29 16:50:05 +0800 <alvarogutyerrez> @alej4ndrovitch  https://t.co/hT7ebwGLNH
+1332397000827006977 2020-11-28 02:52:54 +0800 <alvarogutyerrez> @prashansa_25 The struggle is real 😂😭😂
+1330853172383010816 2020-11-23 20:38:17 +0800 <alvarogutyerrez> @LEoWafula What the F... First of all, I studied at this uni😅. Second, there is actually a Master in Public Policy at the Faculty of Physics and Mathematical Sciences, but it is called "Master in Public Management and Policies".   https://t.co/cHLrSoylxk. Now, explain what's going on :O
+1330824894196670464 2020-11-23 18:45:54 +0800 <alvarogutyerrez> @grant_mcdermott @nickchk @hhsievertsen Wow, that was impressive🔥. Your answer was exactly what I was searching for, many thanks 🙌!!  https://t.co/zSDFo6yS8P
+1330640144412659719 2020-11-23 06:31:47 +0800 <alvarogutyerrez> @Esclaponr @rstats_tweets @StackOverflow Thank you!!!
+1330639377551208454 2020-11-23 06:28:44 +0800 <alvarogutyerrez> @nickchk @grant_mcdermott @hhsievertsen 🙏?
+1330627600486719491 2020-11-23 05:41:56 +0800 <alvarogutyerrez> @ig_hdez @StackOverflow  https://t.co/Utjn4gHj32
+1330607898855170052 2020-11-23 04:23:39 +0800 <alvarogutyerrez> Quick question for #RStats wizards 🧙‍♂️on @StackOverflow. I'd like to ask for help to reproduce a Stata code for Montecarlo simulation.   Could you please take ~15 seconds to tell me if my R code makes sense to you?Tbh, I'm not confident about my Rskils...    https://t.co/5R80ZcMMd5
+1330580380617994240 2020-11-23 02:34:18 +0800 <alvarogutyerrez> ...and anyway, who on earth uses "Ctrl+D" for deleting selected lines if we have *two dedicated keys* on the keyboard that can do it?  Is this some sort of *evil prank* from #rstats people on Stata users🤔 #EconTwitter?   #AcademicTwitter
+1330542454337122309 2020-11-23 00:03:36 +0800 <alvarogutyerrez> @cicardon I've been there so many times. Now it seems no return for me. ctrl+d *definitely* won this battle😂. Old habits die hard 🤓
+1330536764021288962 2020-11-22 23:40:59 +0800 <alvarogutyerrez> *cries in dofile*  https://t.co/Owdh4DbJUd
+1330536761039220745 2020-11-22 23:40:58 +0800 <alvarogutyerrez> I've seen so much discussion/tips about how Stata users can start using R easily, but how come nobody (!) talks about this golden tip?   it just feels like I killed my worst enemy (me.)  https://t.co/4OqOGEdr91
+1329544378600329216 2020-11-20 05:57:36 +0800 <alvarogutyerrez> @ignacioriverosg Por qué a alguien no le darían jsjaajajsss
+1329177438790832128 2020-11-19 05:39:30 +0800 <alvarogutyerrez> @Felipe_Tobar @UFrontera 👏👏👏👏👏
+1328759963255255042 2020-11-18 02:00:37 +0800 <alvarogutyerrez> @pachamaltese @jstatsoft 🔥!
+1327551315317305345 2020-11-14 17:57:52 +0800 <alvarogutyerrez> @steffie_pf @analisapackham 🤣
+1326926356454780929 2020-11-13 00:34:31 +0800 <alvarogutyerrez> @galafrommexico @ig_hdez @OpenAcademics @AcademicChatter Mmm claro claro, entiendo. Ojalá aparezca algo!!
+1326921990226276354 2020-11-13 00:17:10 +0800 <alvarogutyerrez> @galafrommexico @ig_hdez @OpenAcademics @AcademicChatter @galafrommexico segura, *segurisima*, de que mTurk no tiene para elegir idioma del encuestado\a?🤔
+1326918113225560064 2020-11-13 00:01:45 +0800 <alvarogutyerrez> @galafrommexico @OpenAcademics @AcademicChatter @ig_hdez qué dice el maestro?
+1326905269251678209 2020-11-12 23:10:43 +0800 <alvarogutyerrez> @lopezjurip 🔥🔥🔥🔥!!
+1326215288224931840 2020-11-11 01:28:59 +0800 <alvarogutyerrez> animal spirit be like
+1325729923080867842 2020-11-09 17:20:19 +0800 <alvarogutyerrez> @LittlerLabel you nailed it 💅👌
+1324446115991818240 2020-11-06 04:18:55 +0800 <alvarogutyerrez> Hallows, not Horcruxes.
+1324412080523485184 2020-11-06 02:03:41 +0800 <alvarogutyerrez> @alej4ndrovitch 🔥🔥🔥!! Ánimo 🙌🏼
+1323694566927671298 2020-11-04 02:32:32 +0800 <alvarogutyerrez> @CarlaCisternas detonada
+1323587334835765250 2020-11-03 19:26:26 +0800 <alvarogutyerrez> @bisnotforbella @_ColinFay btw @avantgardevegan has tons of wonderful recipes🤩🌱!!   https://t.co/FpxDeqGjUu
+1323162940774719489 2020-11-02 15:20:02 +0800 <alvarogutyerrez> @ignacioriverosg Jssjjsjjs!! Se agradece la promoción 👏😊. El amigo que respondió al tweet la hizo corta y precisa, que grande #Rstats 🙌🏼🔥
+1322931552410632192 2020-11-02 00:00:35 +0800 <alvarogutyerrez> @MikeMahoney218 @rstats_tweets Thank you loads for your kind answer and suggestions 🙌!  Ps: cool of you to maintain @ecology_tweets🌳!
+1322886156783132672 2020-11-01 21:00:12 +0800 <alvarogutyerrez> is there any #RStats wizard🧙🪄 that could help me with a probably stupid question😅?  is it possible to access a function that is hidden to the user from the NAMESPACE file in an R 📦? e.g:    package::public_foo()  ✅  package::hidden_foo() ⁉️   #EconTwitter  #AcademicTwitter
+1322594117348720640 2020-11-01 01:39:44 +0800 <alvarogutyerrez> @StatsInTheWild 😭😭😭😭😭
+1322491115535323136 2020-10-31 18:50:27 +0800 <alvarogutyerrez> @MsVexatious :|
+1322247160344305664 2020-10-31 02:41:03 +0800 <alvarogutyerrez> @RLangTip this 2012 tweet feels like a time capsule😱   🚂[[5]]&lt;-  https://t.co/ncIJAJ66vd
+1322244784799522818 2020-10-31 02:31:37 +0800 <alvarogutyerrez> @ignacioriverosg @ConsiliumBots 👏!!
+1322232610668556288 2020-10-31 01:43:14 +0800 <alvarogutyerrez> @gdiazc Tremendo!!! 👏👏👏👏
+1321926543719936006 2020-10-30 05:27:02 +0800 <alvarogutyerrez> @MarcelaAnguloG 🔥👏!!!
+1321528749679120384 2020-10-29 03:06:21 +0800 <alvarogutyerrez>  https://t.co/LNarRATZ8F
+1321150721446785027 2020-10-28 02:04:12 +0800 <alvarogutyerrez> @janditzen @causalinf feel you bro
+1321149943252426754 2020-10-28 02:01:06 +0800 <alvarogutyerrez> @lopezjurip +1
+1321142690059341824 2020-10-28 01:32:17 +0800 <alvarogutyerrez> @JohnMullahy @paulgp @causalinf Damn. I feel truly identified with this thread. Mixed feeling to be honest.
+1320106104341352460 2020-10-25 04:53:16 +0800 <alvarogutyerrez> @valeriacordovas 🐈😻
+1320101515042918400 2020-10-25 04:35:02 +0800 <alvarogutyerrez> 10/10 debugging partner  https://t.co/atm4Gw4PwQ
+1319700671348736008 2020-10-24 02:02:13 +0800 <alvarogutyerrez> @ChrisANeilson @adamkapor @MohitK_ 🔥🔥
+1319680218592911360 2020-10-24 00:40:57 +0800 <alvarogutyerrez> @fdo_becerra @Senado_Chile Tremendo trabajo, muchas muchas gracias 👏💯!!
+1319618178931216384 2020-10-23 20:34:25 +0800 <alvarogutyerrez> @abicadams @KhushbooSurana_ It might sound random, but I watched it, and I enjoyed it a lot. Best wishes, Dr. @KhushbooSurana_ 👏😊!!
+1319541516256317440 2020-10-23 15:29:48 +0800 <alvarogutyerrez> @AchimZeileis @grant_mcdermott @alexpghayes @VincentAB This is amazing 👏🔥! Thanks for sharing it!
+1319323270643130368 2020-10-23 01:02:34 +0800 <alvarogutyerrez> Do people wear masks in your dreams already or are you normal
+1319032436215500801 2020-10-22 05:46:53 +0800 <alvarogutyerrez> @ig_hdez Primera slide en el ppt de mañana  jajaja
+1319031932018167809 2020-10-22 05:44:53 +0800 <alvarogutyerrez> @cesarnunezc Asi mismo 😅!!
+1319031572771885058 2020-10-22 05:43:28 +0800 <alvarogutyerrez> @ig_hdez Es que le falta reflejar que está la caga 🤣, mi relación con R es complicada por ahora 🙃
+1319025159232196610 2020-10-22 05:17:58 +0800 <alvarogutyerrez> cómo traducen la frase: "Funciona, pero está pegado con scotch?" #EconTwitter
+1318981709875056640 2020-10-22 02:25:19 +0800 <alvarogutyerrez> @rstudio @Liza_Bolton @GaboC_g  https://t.co/U1qBSwinSH
+1318196778676768769 2020-10-19 22:26:17 +0800 <alvarogutyerrez> @analisapackham 👏👏👏
+1317198616814125062 2020-10-17 04:19:57 +0800 <alvarogutyerrez> @ChelseaParlett while ( 🐇 == 🐇)  { print(🐇) } &gt; [1]  (\_/) [1] ( •_•) [1] / &gt;(\_/) [1]     ( •_•) [1]     / &gt;(\_/) [1]         ( •_•) [1]         / &gt;(\_/) [1]             ( •_•) [1]             / &gt;(\_/) [1]                 ( •_•) [1]                 / &gt;🐇
+1317121901546901506 2020-10-16 23:15:06 +0800 <alvarogutyerrez> @Stata Do you guys have the source code of this LaTeX symbol? Asking for a friend.  https://t.co/5H3l7fr5KP  https://t.co/pgBOUQVyfo
+1317107287811592196 2020-10-16 22:17:02 +0800 <alvarogutyerrez> @tomascortesp  https://t.co/l0nJAIjGI0
+1317096087396753409 2020-10-16 21:32:32 +0800 <alvarogutyerrez> @tomascortesp 🥳😭🥳😭
+1317068145803382784 2020-10-16 19:41:30 +0800 <alvarogutyerrez> @CarolAlvo @PabloandresTV @CintiaRoa? Pregunta seria.
+1316848572164452355 2020-10-16 05:09:00 +0800 <alvarogutyerrez> @GaboC_g @1littlecoder Sabrá de estas artes oscuras el maestrisimo @DavidDiazSolis ?
+1316393360077316098 2020-10-14 23:00:09 +0800 <alvarogutyerrez> @JesseWursten @Stata Cool 🔥👌!
+1316363670629363713 2020-10-14 21:02:10 +0800 <alvarogutyerrez> @PMinervini @tetraduzione 😂😂😂😂😂
+1316311796609933313 2020-10-14 17:36:02 +0800 <alvarogutyerrez> @grant_mcdermott @dlmillimet @JennyBryan That was simply... brilliant @JennyBryan 🔥👏!!  https://t.co/ErXA7wfmaw
+1316086838789013504 2020-10-14 02:42:08 +0800 <alvarogutyerrez> @grant_mcdermott @dlmillimet @JennyBryan Thank you a lot 👏😊!!
+1316083664346898435 2020-10-14 02:29:31 +0800 <alvarogutyerrez> @pachamaltese Gracias!!
+1316059883070840834 2020-10-14 00:55:01 +0800 <alvarogutyerrez> @Attique_10 @Stata @AsadSaher @AliHasanain @AghaAliAkram That's awesome! 🔥
+1316018467582083073 2020-10-13 22:10:27 +0800 <alvarogutyerrez> @pachamaltese En teoría sí, pero lo que pasa, es que quiero comparar varios test diferentes y me gustaría poder imprimir en pantalla el trace (?) para mirarlos en detalle y poder replicar "a mano" los cálculos para asegurarme que el paquete hace lo que creo que hace :)
+1316007873684488192 2020-10-13 21:28:21 +0800 <alvarogutyerrez> Could some #RStats master help me🙏? I want to know if there is an equivalent for Stata's *set trace on* command in R? I am checking an R code, and I need to trace back the calculations to check if the code is actually doing what I want it to do #EconTwitter #AcademicTwitter
+1315955700623908866 2020-10-13 18:01:02 +0800 <alvarogutyerrez> @lopezjurip Feliz Cumpleaños 🦆🎂!!
+1315762321105584130 2020-10-13 05:12:37 +0800 <alvarogutyerrez> @1littlecoder @GaboC_g !!!!!!!
+1315658248444313601 2020-10-12 22:19:04 +0800 <alvarogutyerrez> @piaarcehasbun @tyentzen cuanta verdad!
+1314571373671600128 2020-10-09 22:20:13 +0800 <alvarogutyerrez> @ivan_abarca La copia feliz del Edén
+1314249628745977857 2020-10-09 01:01:43 +0800 <alvarogutyerrez> @KirbyKNielsen That would be great, I'd really appreciate if you could tag me or let me know when a new public talk comes out! Thank you Kirby :)
+1313723651133509632 2020-10-07 14:11:40 +0800 <alvarogutyerrez> @KirbyKNielsen Hello Kirby, this sounds amazing. Do you know if there is a recording available? :)
+1313475846989058050 2020-10-06 21:46:59 +0800 <alvarogutyerrez> @rphlbruce name a more iconic duo @tmorris_mrc
+1313039728816599040 2020-10-05 16:54:01 +0800 <alvarogutyerrez> @EsVoorrips 🔥🔥🔥  https://t.co/KAdEp0NBIa
+1313027292852035585 2020-10-05 16:04:36 +0800 <alvarogutyerrez> @EsVoorrips LifeHack! Which one is it 🤓?
+1312784826219593729 2020-10-05 00:01:07 +0800 <alvarogutyerrez> @ethanraker 🔥👻🔥
+1312779383782936576 2020-10-04 23:39:30 +0800 <alvarogutyerrez> @chrisgalgojr Here is the expert, @EsVoorrips any idea? 😝
+1312746019768197121 2020-10-04 21:26:55 +0800 <alvarogutyerrez> @KirbyKNielsen I've had a hard time trying to find a perfect substitute for 'steady state' and 'rate of convergence' when talking about diet or exercise
+1312471581336113152 2020-10-04 03:16:24 +0800 <alvarogutyerrez> @ashdgandhi GitHub?
+1312105833661046786 2020-10-03 03:03:03 +0800 <alvarogutyerrez> @Santi_Ch_ ahora si q si!
+1312104365868474368 2020-10-03 02:57:13 +0800 <alvarogutyerrez> @Santi_Ch_ JAJAJAJAJAJJAJAJAJAJAJJAJAJAJAJA
+1312102477643218945 2020-10-03 02:49:43 +0800 <alvarogutyerrez> @Santi_Ch_ che se me acabó el libro ya no se qué hacer con mi vida
+1312051039600812033 2020-10-02 23:25:19 +0800 <alvarogutyerrez> @LEoWafula Indeed!! haha
+1312049520180690946 2020-10-02 23:19:16 +0800 <alvarogutyerrez> @tmorris_mrc @Stata @EpiHarris I guess he managed to get access to Twitter from a  https://t.co/rPK54i0yo8 (good luck with your inbox, now you tweeted the untweetable)
+1312047314362658818 2020-10-02 23:10:31 +0800 <alvarogutyerrez> @tmorris_mrc @Stata @EpiHarris Nick is missing loads not being on Twitter
+1312039845183750147 2020-10-02 22:40:50 +0800 <alvarogutyerrez> @GoldenVision90 @usher_andrew @SouthamptonFC Yo, check that out @LEoWafula haha
+1311785963811676161 2020-10-02 05:52:00 +0800 <alvarogutyerrez> @alej4ndrovitch @Nightspirit33 hjsajhsjha no te creooooo ajhjksajhsa
+1311242480327757824 2020-09-30 17:52:23 +0800 <alvarogutyerrez> @BryanParthum marvelous work that I wish I had when I was undergrad!
+1311236235516678145 2020-09-30 17:27:34 +0800 <alvarogutyerrez> @tmorris_mrc that's amazing! kind words again mate😇!
+1311235550280642560 2020-09-30 17:24:51 +0800 <alvarogutyerrez> @OutChiSoccer exijo una explicación @MeruaneOmar 😂
+1311231114363777025 2020-09-30 17:07:13 +0800 <alvarogutyerrez> @tmorris_mrc thanks for these gentle words, at first I felt utterly excluded 😂
+1311229286519640070 2020-09-30 16:59:58 +0800 <alvarogutyerrez> @YanndeMey @Stata @AcademicChatter All I can see is: Stata 18 = Excel🤔
+1310946470359638017 2020-09-29 22:16:09 +0800 <alvarogutyerrez> @ChrisANeilson @alvcarril Also, his tutorial about installing Stata in Linux is a hidden gem 👌!
+1310851011184152576 2020-09-29 15:56:50 +0800 <alvarogutyerrez> @guadag12 @ramaol @eanttech @BAGobAbierto 😻🔥
+1310841947624534017 2020-09-29 15:20:49 +0800 <alvarogutyerrez> @agusnieto77 @Alejand27836440
+1310561011771084803 2020-09-28 20:44:28 +0800 <alvarogutyerrez> @LiTar1991 @VfS_econ 🎉👏
+1310309922790412290 2020-09-28 04:06:44 +0800 <alvarogutyerrez> @petemohanty @lauretig Indeed.
+1310307951387832320 2020-09-28 03:58:54 +0800 <alvarogutyerrez> @abicadams @QJEHarvard @Jabaluck 😱 This is 🔥🔥🔥, Congratulations 👌!!  Looking forward to check out this  Stata command :)
+1310301771722633217 2020-09-28 03:34:21 +0800 <alvarogutyerrez> @DanLeppert @ArielRubinstein Q7, relatable!
+1310285945439166467 2020-09-28 02:31:27 +0800 <alvarogutyerrez> @MeruaneOmar @USanFelipeSADP 🔥🔥🔥
+1310196796153569280 2020-09-27 20:37:13 +0800 <alvarogutyerrez> @AnkurFactorial Optimal ensemble of board games
+1310178258609229831 2020-09-27 19:23:33 +0800 <alvarogutyerrez> @yesimorhun @R_Thaler Happens to me even watching movies
+1310118120166748160 2020-09-27 15:24:35 +0800 <alvarogutyerrez> @j_jason_bell Same.
+1309982001961807875 2020-09-27 06:23:42 +0800 <alvarogutyerrez> @valeriacordovas @valentiandrade @LatinR_Conf @nicolasratto3 @GaboC_g 😻
+1309922480040050688 2020-09-27 02:27:11 +0800 <alvarogutyerrez> Papers in 2020: "We are the very first in the galaxy deriving the following algorithm, which has been proof of having a 0.0001 increment in accuracy over all the rest procedures known by humankind"  Papers in 1955: "No originality is claimed for the tests discussed in this paper"  https://t.co/67ogwsOpx4
+1309916999598956544 2020-09-27 02:05:24 +0800 <alvarogutyerrez> @PHuenermund "using  https://t.co/ASiwqVx12v"?
+1309913080378331136 2020-09-27 01:49:50 +0800 <alvarogutyerrez> @valentiandrade @LatinR_Conf @nicolasratto3 @GaboC_g por dios que rescuerdos @valeriacordovas    https://t.co/1YOEdORkbe
+1309911103829422085 2020-09-27 01:41:58 +0800 <alvarogutyerrez> @valentiandrade @LatinR_Conf @nicolasratto3 como dijo el gran maestro @GaboC_g una vez: "este es mi Lollapalooza!!🔥"
+1309864420600938498 2020-09-26 22:36:28 +0800 <alvarogutyerrez> @CJ_Lagerkvist The email is already sent. Thank you for your disposition :)!
+1309825949081403393 2020-09-26 20:03:36 +0800 <alvarogutyerrez> @CJ_Lagerkvist This seems really interesting! Do you think it is possible to get access to the raw data?
+1309786023690469377 2020-09-26 17:24:57 +0800 <alvarogutyerrez> @LuciaR2 :|
+1309573944643588096 2020-09-26 03:22:13 +0800 <alvarogutyerrez> @emmavaninwegen *cries in GitHub*
+1309566894681317381 2020-09-26 02:54:12 +0800 <alvarogutyerrez> @guillelarrain @patricioaroca Muy de acuerdo con que debemos superar la excesiva concentración que tiene la RM, especialmente considerando la geografía chilena, sin embargo, creo que el tag era para @ArocaPatricio!
+1309560734204997634 2020-09-26 02:29:44 +0800 <alvarogutyerrez> @simardcasanova Congrats!! 🎉🎉🎉
+1309543735450120193 2020-09-26 01:22:11 +0800 <alvarogutyerrez> @MelissaK_Moore @KelliMarquardt !!!  https://t.co/MYmQLzrFwD
+1309513349965766658 2020-09-25 23:21:26 +0800 <alvarogutyerrez> @tmorris_mrc Someone**😝
+1309513207409782784 2020-09-25 23:20:52 +0800 <alvarogutyerrez> @tmorris_mrc Finally some noticed! ...what an eye 👌 (😂🤣)
+1309400962453458944 2020-09-25 15:54:51 +0800 <alvarogutyerrez> @Carlesnosi @nytimes 😢
+1309382773220745216 2020-09-25 14:42:34 +0800 <alvarogutyerrez> @isaJacas @ignacioriverosg @ConsiliumBots 🔥🔥🔥
+1309381464484728832 2020-09-25 14:37:22 +0800 <alvarogutyerrez> @lapumi @czglave @LMHadzich "acostumbrado a que todo falle"😂🤣😂🤣  Cuanta verdad...
+1309254149025009664 2020-09-25 06:11:28 +0800 <alvarogutyerrez> @vinnie_p Thanks! (:
+1309246932343304193 2020-09-25 05:42:47 +0800 <alvarogutyerrez> @Nanoochoa oye, pero que buena lista sacaste👌
+1309243680302268418 2020-09-25 05:29:52 +0800 <alvarogutyerrez> @normalEconomist Holaaa! Es un HP E243 (23.8 inches)😊!
+1309235105106456581 2020-09-25 04:55:48 +0800 <alvarogutyerrez> @josepGisb @YouTube @Numberphile ♥️
+1309233778305441792 2020-09-25 04:50:31 +0800 <alvarogutyerrez> @EndaHargaden 👏!
+1309221730657988608 2020-09-25 04:02:39 +0800 <alvarogutyerrez> @ig_hdez @cnavarreteliz Te dan miedo las arañas  🕷️🕸️🕷️🕸️?    https://t.co/lStPZusSUg
+1309221277073375232 2020-09-25 04:00:51 +0800 <alvarogutyerrez> @ig_hdez @cnavarreteliz 👌👌👌!
+1309220132615577600 2020-09-25 03:56:18 +0800 <alvarogutyerrez> @ig_hdez @cnavarreteliz esto es para el magno evento ?    https://t.co/y6fbAagZ1Q
+1309219934233415681 2020-09-25 03:55:31 +0800 <alvarogutyerrez> @ig_hdez @cnavarreteliz Ö!
+1309218720129126401 2020-09-25 03:50:41 +0800 <alvarogutyerrez> @ig_hdez PVL_ML_v2_esta_si_que_sale_ahora_si_corregida_OK(2).py
+1309218286517850112 2020-09-25 03:48:58 +0800 <alvarogutyerrez> @MeruaneOmar Aguante Omi, algún día nos volveremos a encontrar en un bus Ahumada jaja ♥️, un abrazo!!
+1309214113562796032 2020-09-25 03:32:23 +0800 <alvarogutyerrez> @PereATaberner Lo mejor 😻🔥, aunque para leer pdf también se agradece, cabe la página entera sin scrolling jeje
+1309211740807331842 2020-09-25 03:22:57 +0800 <alvarogutyerrez> the sweet spot   *indie movie intensifies*  https://t.co/8mKrjKOiz3
+1309164510893281285 2020-09-25 00:15:17 +0800 <alvarogutyerrez> @TimHarford @numberphile "All you need to be able to do to be good at this job Tim is to talk crap and wear a suit ." That made my day😂
+1309120426916933639 2020-09-24 21:20:06 +0800 <alvarogutyerrez> @julie_metta 🤘!
+1309119501892489218 2020-09-24 21:16:26 +0800 <alvarogutyerrez> @ramencult wut(!?)
+1309080504185085955 2020-09-24 18:41:28 +0800 <alvarogutyerrez> @EUScienceInnov @GabrielMariya @leuven2030 @Leuven_MindGate 👏👏👏👏
+1309062758865014789 2020-09-24 17:30:57 +0800 <alvarogutyerrez> @GoytiaAlejandra Seca👏!
+1309061391366619137 2020-09-24 17:25:31 +0800 <alvarogutyerrez> @_ToFeWe @AnjaRoesner @EmilioC_ @Stata To be fair, there are also FORTRAN translators into Python and others languages I think haha 😂😇
+1309055622349021186 2020-09-24 17:02:36 +0800 <alvarogutyerrez> @_ToFeWe @AnjaRoesner @EmilioC_ mata:  void fortran() { If (you are a @Stata user){  this probably could works 😅  https://t.co/8ZtUQdm7eR } else { It's always great to learn something new 😅🙃 } }
+1308779123976925189 2020-09-23 22:43:53 +0800 <alvarogutyerrez> @MIT_CSAIL 🔥🔥🔥🔥🔥🔥🔥🔥
+1308776812126908418 2020-09-23 22:34:42 +0800 <alvarogutyerrez> @Juanizio_C  https://t.co/hI5kZlHR77
+1308345015777792000 2020-09-22 17:58:54 +0800 <alvarogutyerrez> @ig_hdez el mismísimo..
+1308047695546900480 2020-09-21 22:17:27 +0800 <alvarogutyerrez> @ig_hdez su saumerio
+1308016143987281920 2020-09-21 20:12:05 +0800 <alvarogutyerrez> @carcherpe real hasta la muerte🔥
+1307984351947362306 2020-09-21 18:05:45 +0800 <alvarogutyerrez> @ErikAnsink Outliers (?)
+1307751566552838149 2020-09-21 02:40:44 +0800 <alvarogutyerrez> @cabralestweet @EconSocUCL @coreeconteam @uc3m @EconUCL Kind words maestro, may the Force be with you!💪
+1307746251866284032 2020-09-21 02:19:37 +0800 <alvarogutyerrez> @cabralestweet @EconSocUCL @coreeconteam @uc3m @EconUCL I aspire to be 1/100 as cool as you are, y lo digo en serio🔥✌️!!
+1307664299113013248 2020-09-20 20:53:58 +0800 <alvarogutyerrez> @ChrisANeilson @KhoaVuUmn not even The Stata Journal uses the default 😂
+1307397441197674497 2020-09-20 03:13:34 +0800 <alvarogutyerrez> @pachamaltese which is the help file for 'curious users' with all the details of what that Stata is doing for you explained. The last part is devoted to svy/weighted estimates, and probably might be helpful if you want to build up some similar using R   https://t.co/gqXC4wmbDF
+1307396717160083456 2020-09-20 03:10:42 +0800 <alvarogutyerrez> @pachamaltese I am definitely not rigorously trained in survey statistics at all, but as far I can understand, the whole point of the Stata svy/weights is how easy to go they are. That being said, recently I needed to compute robust std. errs in the 'hard way'  and I discover this:
+1306989725379637250 2020-09-19 00:13:27 +0800 <alvarogutyerrez> @Nicolas28544693 Jajajajjaa yo voto por @real_emog
+1306989107885879298 2020-09-19 00:11:00 +0800 <alvarogutyerrez> @Nicolas28544693 Alto nombre de bot que te sacaste jajajajaja
+1306989000666812422 2020-09-19 00:10:35 +0800 <alvarogutyerrez> @Nicolas28544693 Hola @Nicolas28544693, genio
+1306912338868662272 2020-09-18 19:05:57 +0800 <alvarogutyerrez> @HolttaOtto @AcademicChatter time-axis *definitely* not drawn at scale, those dots are tricky af haha
+1306894674720948224 2020-09-18 17:55:46 +0800 <alvarogutyerrez> @Roi_Maor @ChelseaParlett @ResearchJeremy @TonyPelleriti as everything does, doesn't it?
+1306333185115074567 2020-09-17 04:44:36 +0800 <alvarogutyerrez> @ignacioriverosg totalmente 🤣
+1306332286388928513 2020-09-17 04:41:02 +0800 <alvarogutyerrez> @ignacioriverosg Bajar y leer papers también
+1306327304898072576 2020-09-17 04:21:14 +0800 <alvarogutyerrez> @pachamaltese Unless I am very much mistaken, the existence of weighted estimates was, indeed, one of the features that sucked several people into the Stata side-of-the-force during the early 90s 🤔
+1306316748770160642 2020-09-17 03:39:17 +0800 <alvarogutyerrez> @anyfactor @Geistb0t 😂😂😂😂😂😂😂😂😂
+1306276429148098562 2020-09-17 00:59:04 +0800 <alvarogutyerrez> @grant_mcdermott @LiTar1991 That's so true, Rmardown is sublime. I've seen people doing the impossible there... Respect.
+1306239314930610176 2020-09-16 22:31:36 +0800 <alvarogutyerrez> @LiTar1991 @Stata @AcademicChatter logfiles😻,IMO it's the easiest way to store results from Stata routines. I am also impressed by this speed boost that you mention, do you think it is because of the data processing was faster or the model fitting in your case? Also, have you checked @grant_mcdermott speed tests?
+1306232376838762501 2020-09-16 22:04:01 +0800 <alvarogutyerrez> @ignacioriverosg 🤘  https://t.co/TBX2REhiQi
+1306169971714789379 2020-09-16 17:56:03 +0800 <alvarogutyerrez> @danice_brown @jenniheissel @Stata Not only the name is 🔥 haha, strong choice @ChuckHuber8!
+1306154464122941441 2020-09-16 16:54:26 +0800 <alvarogutyerrez> @tmorris_mrc @Crowther_MJ I think the coordinates are hidden on the spaces of the indentation😱
+1306119452489060353 2020-09-16 14:35:18 +0800 <alvarogutyerrez> @vinnie_p Now I see it, thanks for this detailed explanation. As far as I know, this is not duplicated, but I've never used dictionaries into Stata tho. Might I ask why they are so cool, haha?
+1305968599543185409 2020-09-16 04:35:52 +0800 <alvarogutyerrez> @tetraduzione @ECMLPKDD Best 3:03:01 hours of the day. Definitely, worth it. #ProbabilisticCircuits seem really promising! Thanks for sharing, this is gold.
+1305959410804633600 2020-09-16 03:59:21 +0800 <alvarogutyerrez> @jenniheissel @danice_brown @Stata BYW, Chuck Huber wrote an enlightening blog post about it some time ago!  https://t.co/srlXf0EXEn  https://t.co/wq6L6rCV4w
+1305920904883560449 2020-09-16 01:26:21 +0800 <alvarogutyerrez> @vinnie_p This seems great, but I might be missing something. Is it great due to the speed you can reach out in doing it line-by-line, or is it some other kind of magic that  I am not aware of?
+1305918073480806402 2020-09-16 01:15:06 +0800 <alvarogutyerrez> @MattVZahn @Stata Strong choice. Some foreach will never be possible without this delicious command 😻
+1305916002648154113 2020-09-16 01:06:52 +0800 <alvarogutyerrez> @romirand @Stata  https://t.co/twW97hr0vp
+1305882331325005827 2020-09-15 22:53:04 +0800 <alvarogutyerrez> @A_Hendel @dsebastiantello @autoregress @Stata HAHAHA 😂
+1305880128015273988 2020-09-15 22:44:19 +0800 <alvarogutyerrez> @romirand @Stata A ver si cae una mascarilla!! Jaja
+1305877837124169728 2020-09-15 22:35:13 +0800 <alvarogutyerrez> @danice_brown @jenniheissel @Stata This is a **REALLY** cool feature, I might be wrong, but is it only available on Stata 16, isn't it?
+1305877283417329669 2020-09-15 22:33:01 +0800 <alvarogutyerrez> @mirandainez @Stata Still don't understand why it isn't the default vce tho
+1305875711471890434 2020-09-15 22:26:46 +0800 <alvarogutyerrez> @Bad_Sky @PHDcomics Yes
+1305859872148389891 2020-09-15 21:23:49 +0800 <alvarogutyerrez> @Stata exit  https://t.co/KBsJYQKPRs
+1305859242138755072 2020-09-15 21:21:19 +0800 <alvarogutyerrez> @AndreaCaria2 @Stata @CristianUsala give him the mask, that's it.
+1305858922843176962 2020-09-15 21:20:03 +0800 <alvarogutyerrez> @ZALAS_95 @Stata relatable
+1305858787551707137 2020-09-15 21:19:31 +0800 <alvarogutyerrez> @jdtorres96 @Stata a horror story
+1305809362439614464 2020-09-15 18:03:07 +0800 <alvarogutyerrez> @CmcLeeds Looking forward to it!!
+1305756919236304896 2020-09-15 14:34:43 +0800 <alvarogutyerrez> @LiTar1991 @Stata @AcademicChatter That's a pity. May I ask what do you miss the most?
+1305053642022682625 2020-09-13 16:00:09 +0800 <alvarogutyerrez> @carla_cecconi 🎉🎉🎉🎉🎉🎉🎉🎉  https://t.co/4yx2Y1u9h1
+1305043341881544704 2020-09-13 15:19:13 +0800 <alvarogutyerrez> @ProfPButton @AcademicChatter Hi @ProfPButton, thanks for this space! I'm Álvaro and I'm a first year PhD student at @KU_Leuven. I'm interested in Discrete Choice Models and Computational #Statistics  😻. Here is what I've doing lately, cheers ✌️🍻!!   https://t.co/K1I6kZ8sDi
+1304955283710578689 2020-09-13 09:29:19 +0800 <alvarogutyerrez>  https://t.co/DpVuSjiOas
+1304955271735914496 2020-09-13 09:29:16 +0800 <alvarogutyerrez> I'm curious about how updated is the @Stata community. Which is the latest version that you have access to? #EconTwitter @AcademicChatter #StatsTwitter
+1304530755687571456 2020-09-12 05:22:23 +0800 <alvarogutyerrez> @semrasevi @ElectoralStdies Woooow 😻 Such a gift!!!  https://t.co/7B5Pdd9wHt
+1304374728736546817 2020-09-11 19:02:24 +0800 <alvarogutyerrez> @jmwooldridge 🔥!!
+1304341543130722305 2020-09-11 16:50:32 +0800 <alvarogutyerrez> @WalidSoneidar @Stata thanks
+1304321024247435265 2020-09-11 15:28:59 +0800 <alvarogutyerrez> @LEoWafula Gracias amigo!
+1304207641418305537 2020-09-11 07:58:27 +0800 <alvarogutyerrez> I am glad you enjoyed it! By the way, here is the repo with the @Stata code from the presentation.  People interested in Discrete Choice Models... help yourselves! 👇👇   https://t.co/K1I6kZ8sDi
+1303731954790133760 2020-09-10 00:28:14 +0800 <alvarogutyerrez> @KelliMarquardt u r on fire 😂🔥!
+1303704780284612609 2020-09-09 22:40:15 +0800 <alvarogutyerrez> @3blue1brown Hero ♥️
+1303615466326437888 2020-09-09 16:45:21 +0800 <alvarogutyerrez> @DeNewJohn @Stata r(rtable) is awesome! Especially bc you can recover all pvals (or just one) in one go 🤘🔥 ! ---- clear all sysuse auto reg price mpg rep78 headroom trunk  mat all_pval = r(table)["pvalue",.] mat li all_pval mat p_val_headroom = r(table)["pvalue","headroom"] mat li p_val_headroom  https://t.co/yjffHz3uXt
+1303585826291490817 2020-09-09 14:47:35 +0800 <alvarogutyerrez> @ProfMella @bcentralchile De hecho!
+1303420680659243016 2020-09-09 03:51:21 +0800 <alvarogutyerrez> @ysingh_hopkins Amén .
+1303417605009682432 2020-09-09 03:39:08 +0800 <alvarogutyerrez> @KelliMarquardt @Stata That's *SO* true.
+1303310017408520192 2020-09-08 20:31:37 +0800 <alvarogutyerrez> @AnkurFactorial 🔥
+1303279413547732995 2020-09-08 18:30:00 +0800 <alvarogutyerrez> @rhurtubia Quizás los `cowork' podrían ser una opción. De modo que el mismo espacio puede ser utilizado por múltiples grupos de personas, para reuniones una vez a la semana (mes, año(?)).
+1303242596014264320 2020-09-08 16:03:42 +0800 <alvarogutyerrez> @Ivan_Pegna @jpiquer +1
+1303079392948748288 2020-09-08 05:15:11 +0800 <alvarogutyerrez> @pipicosas Brrrrr
+1303078976458551296 2020-09-08 05:13:32 +0800 <alvarogutyerrez> @pipicosas Real hasta la muerte
+1303068037931773955 2020-09-08 04:30:04 +0800 <alvarogutyerrez> @myaksicb lo cortés no quita lo valiente
+1302980368899993603 2020-09-07 22:41:42 +0800 <alvarogutyerrez> @montesinos_mv PS2: Also, when I'm in doubt of whatever statistical topic, I always go back to the book "Statistical Inference" by Casella &amp; Berger.  Even though this is a more advance reference, most of the time the answers are there :)   You can find it with a bit of Google online jeje
+1302976318976466950 2020-09-07 22:25:37 +0800 <alvarogutyerrez> @montesinos_mv PS: the part devoted to hypothesis testing is simply... beautiful.
+1302976086855364616 2020-09-07 22:24:41 +0800 <alvarogutyerrez> @montesinos_mv Bruce Hansen's book is sublime🤘. A lot of intuition but without leaving behind the formalization of the fundamentals. On his webpage, you might also find the advanced version of the book (graduated) for more advanced (and diverse) topics.    https://t.co/vbvWMPnhyZ
+1302713448132943878 2020-09-07 05:01:03 +0800 <alvarogutyerrez> @DJROE95 @valeriacordovas
+1302346070824026117 2020-09-06 04:41:14 +0800 <alvarogutyerrez> @robsalasco @hadleywickham bello bello bello
+1302342085677330433 2020-09-06 04:25:24 +0800 <alvarogutyerrez> @SmithTravisA The evidence shown has convinced me. A passive voice will never be used again.
+1302335195694104578 2020-09-06 03:58:01 +0800 <alvarogutyerrez> @SmithTravisA I am genuinely curious here. Is it *actually* considered a poor writing style?  For example, how ugly is the sentence `the parameters were estimated using...'😅?
+1302329555148042241 2020-09-06 03:35:36 +0800 <alvarogutyerrez> @SmithTravisA such a constructive and valuable feedback...
+1302240081600749569 2020-09-05 21:40:04 +0800 <alvarogutyerrez> @wonderofscience @sharonmaat
+1302205665004355585 2020-09-05 19:23:19 +0800 <alvarogutyerrez> @nickchk The animations are brilliant, and also the messages that pop up during the lecture videos are very enlightening to reinforce essential points. Thanks a lot for sharing this!
+1301910207602348032 2020-09-04 23:49:16 +0800 <alvarogutyerrez> @tmorris_mrc @lenaconstante @Stata @statauk There is a lot of creative titles within the @Stata community; one of my favorites is the `Mata Matters' series.
+1301908894516641794 2020-09-04 23:44:03 +0800 <alvarogutyerrez> @bougieprofessor @FromPhDtoLife @NotionHQ After watching this, I was totally in. I hope you can benefit from it too.   https://t.co/I8fhecPQ01
+1301903109363585024 2020-09-04 23:21:04 +0800 <alvarogutyerrez> @SammerTang @Stata Almost 50 runs in the command history. Not a single error. Respect.
+1301900049564217346 2020-09-04 23:08:54 +0800 <alvarogutyerrez> @lenaconstante @tmorris_mrc @Stata @statauk What about this one :)?   https://t.co/Ru8EmTNkOO
+1301798792904216576 2020-09-04 16:26:33 +0800 <alvarogutyerrez> @FromPhDtoLife @NotionHQ ♥️.♥️
+1301794888011390976 2020-09-04 16:11:02 +0800 <alvarogutyerrez> @annasdtc or maybe, Hamilton's "Time Series Analysis"? 😅
+1301792821926649856 2020-09-04 16:02:49 +0800 <alvarogutyerrez> @Stata Dark mode
+1301788334633738242 2020-09-04 15:44:59 +0800 <alvarogutyerrez> @alsogoesbyV @NotionHQ @AcademicChatter In particular I like a lot a @NotionHQ template from @DataOsborne which is devoted to project management, but I use it for EVERYTHING :)   https://t.co/I8fhecPQ01
+1301786226224173056 2020-09-04 15:36:37 +0800 <alvarogutyerrez> @alsogoesbyV @NotionHQ @AcademicChatter Hi Aditya, all templates have LaTeX support :)
+1301654226444128256 2020-09-04 06:52:05 +0800 <alvarogutyerrez> @_bbdaniels @Stata Woow this is 🔥😱!!
+1301627237242998784 2020-09-04 05:04:51 +0800 <alvarogutyerrez> @ceguir Econopidemiologist and other Dark Arts!
+1301624741405622273 2020-09-04 04:54:56 +0800 <alvarogutyerrez> @Kaleb_Javier @itsafronomics @drlisadcook At KU Leuven the "Msc of Statistics and Data Science" doesn't require GRE and it's accredited by the @RoyalStatSoc !   https://t.co/e3152Dx3kf
+1301620462938738688 2020-09-04 04:37:55 +0800 <alvarogutyerrez> Have you ever made a desition that you regret? (don't lie🤭)  Did you know that it's possible to formalize this notion of regret and use it for choice modeling🤔?  If you are curious, I'll be presenting such models and their implementation at the @Stata Conference😊! #EconTwitter  https://t.co/NDSm7gVXFR
+1301147846125801472 2020-09-02 21:19:55 +0800 <alvarogutyerrez> @lopezjurip ni tan bad
+1301108655815897089 2020-09-02 18:44:11 +0800 <alvarogutyerrez> @CodeDoesMeme or not running at all...
+1300870480090542081 2020-09-02 02:57:46 +0800 <alvarogutyerrez> @JesseWursten @Stata Funfact: my mouse died today, ctrl+tab saved the day lol
+1300857224785539072 2020-09-02 02:05:05 +0800 <alvarogutyerrez> @tyleransom Such a stylish referee (congrats)!  https://t.co/0a8F94r5uk
+1300686563991580672 2020-09-01 14:46:57 +0800 <alvarogutyerrez> @AnneFitz13 @KelliMarquardt @jt_kerwin That's very deep

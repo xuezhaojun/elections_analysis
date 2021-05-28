@@ -1,14 +1,20 @@
+from os import error
 import twint
 from datetime import datetime
 
 def get_history_file_path(user,index):
-    return "history_tweets/history_tweet_" + str(index) + "_" + user + ".txt"
+    # TODO 
+    # return "history_tweets/history_tweet_" + str(index) + "_" + user + ".txt"
+    return "history_tweet_" + str(index) + "_" + user + ".txt"
+
 
 def get_tweets(user,index):
     c = twint.Config()
     c.Username = user
     c.Since = "2020-09-01 00:00:00"
     c.Until = "2020-12-30 00:00:00"
+    # c.Replies = True
+    # c.Native_retweets = True
     c.Output = get_history_file_path(user,index)
     twint.run.Search(c)   
 
@@ -42,14 +48,13 @@ def ontime(user):
                 after_election.append(line)
     return before_election, during_election, after_election
 
+# get_tweets("OPENVIResearch",0)
+
 # get all uses, read from directory /users
 alluserList = []
-with open("users/all_users.csv", "r") as usersfile:
-# with open("users/users_IzzyFitton.csv", "r") as usersfile:
-# with open("users/users_realSlaughtz.csv", "r") as usersfile:
-# with open("users/users_RightStuff47.csv", "r") as usersfile:
-# with open("users/users_AW_HateWatch.csv", "r") as usersfile:
-# with open("users/users_ProWhiteDwight.csv", "r") as usersfile:
+# with open("users/all_users.csv", "r") as usersfile:
+with open("users/all_anti_n_users.csv", "r") as usersfile:
+# with open("us_connections.csv", "r") as usersfile:
     alluser = {}
     lines = usersfile.readlines()
     for line in lines:
@@ -64,6 +69,10 @@ print(len(alluserList))
 # get all tweets and write to files
 index = 0
 for u in alluserList:
-    get_tweets(u,index)
+    try:
+        get_tweets(u,index)
+    except:
+        continue
     index += 1
-    # before, during, after = ontime(u)
+    if index > 1600:
+        break

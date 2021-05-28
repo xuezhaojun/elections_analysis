@@ -78,5 +78,7 @@ def get_all_followers(user):
     return users_level_1, users_level_2
 
 # users = ["IzzyFitton","realSlaughtz","RightStuff47","AW_HateWatch","ProWhiteDwight"]
-users_level_1, users_level_2 = get_all_followers("ProWhiteDwight")
-print("done with download all users")
+users = ["kk131066", "HANSEN_SOGROOVY", "DanegroQ", "outerspacemanII","AmericanFaye"]   
+for user in users:
+    users_level_1, users_level_2 = get_all_followers(user)
+    print("done with download all users")
